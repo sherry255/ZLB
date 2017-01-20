@@ -2,7 +2,8 @@ log = function (e) {
     console.log(e)
 }
 liveBlock = function () {
-    removeDOM(".Profile-lightItem, .SidebarListNav--noFollowLink")
+    //removeDOM(".Profile-lightItem, .SidebarListNav--noFollowLink")
+    removeDOM(".SidebarListNav--noFollowLink")
 }
 adblockBanner = function () {
     removeDOM(".AdblockBanner")
