@@ -12,8 +12,8 @@ removeDOM = function (classes) {
     c ? c.remove() : ""
 }
 replaceName = function () {
-    // name = document.querySelector(".zu-top-nav-userinfo > span")
-    n = document.querySelector(".zu-top-nav-userinfo > span, .ProfileHeader-name")
+    // n = document.querySelector(".zu-top-nav-userinfo > span, .ProfileHeader-name")
+    n = document.querySelector(".zu-top-nav-userinfo > span")
     n ? n.innerHTML = "勃学家" : ""
 }
 window.onload = function() {
