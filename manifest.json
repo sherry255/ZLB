@@ -5,12 +5,12 @@
   "version": "1.0",
   "content_scripts": [{
       "matches": ["*://*.zhihu.com/*"],
-      "js": ["zhlb.js"],
+      "js": ["zlb.js"],
       "run_at": "document_start"
     }
   ],
   "permissions": [
-    "*://*.zhihu.com/*",
+    "*://*.zhihu.com/*"
   ],
   "web_accessible_resources": [
     "*.js"
