@@ -1,10 +1,10 @@
 # ZLB
-zhihu live block, for Boism.
+zhihu live block
 
 # Features
-- 屏蔽了知乎的live推荐
-- 屏蔽了知乎的AdblockBanner
-- 专属名字
+- 屏蔽了知乎的 live 推荐
+- 屏蔽了知乎的 AdblockBanner 消息提醒
+- 个人专属名字
 
 # Usage
  1. Download the [ZLB.crx](https://raw.githubusercontent.com/sherrycherish/ZLB/master/ZLB.crx)
